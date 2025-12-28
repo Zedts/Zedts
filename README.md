@@ -86,8 +86,9 @@ I'm a passionate full-stack developer based in **Indonesia** 🇮🇩 with exper
 ![](https://nirzak-streak-stats.vercel.app/?user=Zedts&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![snake gif](https://github.com/zedts/zedts/blob/output/github-snake-dark.svg)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Zedts&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
