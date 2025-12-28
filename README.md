@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Full-Stack Developer | React Specialist
+### Full-Stack Developer | React Specialist(?)
 
 **Building enterprise-grade applications with modern tech stack**
 
