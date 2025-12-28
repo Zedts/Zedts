@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full-Stack Developer | React Specialist | Dashboard Architect
+### Full-Stack Developer | React Specialist
 
 **Building enterprise-grade applications with modern tech stack**
 
