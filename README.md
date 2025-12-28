@@ -15,18 +15,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate full-stack developer based in **Indonesia** 🇮🇩 with expertise in building scalable web applications, interactive dashboards, and emerging technologies. I love clean code, type-safe development, and creating solutions that actually solve problems.
-
-💼 Currently working on enterprise dashboard systems at **Denso**
-🎮 Exploring game development with Roblox & Luau scripting
-🎨 3D modeling enthusiast (Blender, Blockbench)
-🔧 Always optimizing workflows and learning new technologies
-
----
-
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -98,7 +86,6 @@ I'm a passionate full-stack developer based in **Indonesia** 🇮🇩 with exper
 
 <div align="center">
 
-🔨 **Working on:** Enterprise Dashboard Systems  
 📚 **Learning:** Advanced React Patterns & Game Development Mechanics  
 🤝 **Open to:** Collaboration & Exciting Projects  
 💬 **Ask me about:** React, TypeScript, API Design, Dashboard Architecture  
