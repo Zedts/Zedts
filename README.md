@@ -86,9 +86,9 @@
 
 <div align="center">
 
-📚 **Learning:** Advanced React Patterns & Game Development Mechanics  
+📚 **Learning:** Anything New...
 🤝 **Open to:** Collaboration & Exciting Projects  
-💬 **Ask me about:** React, TypeScript, API Design, Dashboard Architecture  
+💬 **Ask me about:** Also Anything :D
 
 </div>
 
