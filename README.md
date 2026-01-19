@@ -71,8 +71,6 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=Zedts&theme=dark&hide_border=false)<br/>
 
 ![snake gif](https://github.com/zedts/zedts/blob/output/github-snake-dark.svg)
 
