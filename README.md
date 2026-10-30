@@ -5,6 +5,7 @@
 <div align="center">
 
 ### Full-Stack Developer(?)
+Ideally, I’d prefer to focus on either front-end or back-end, but if a full-stack role is needed, that’s fine too :)
 
 **Building enterprise-grade applications with modern tech stack**
 
